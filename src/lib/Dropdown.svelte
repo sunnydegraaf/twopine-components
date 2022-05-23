@@ -56,7 +56,7 @@ a:hover {
   height: 0; 
   border-left: 5px solid transparent;
   border-right: 5px solid transparent;
-  border-top: 5px solid var(--color-neutral);
+  border-top: 5px solid var(x);
 }
 
 .button.open:after {

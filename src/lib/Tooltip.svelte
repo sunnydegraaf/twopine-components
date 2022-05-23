@@ -51,7 +51,7 @@
     svg {
         width: 1em;
         cursor: pointer;
-        fill: var(--color-primary);
+        /* fill: var(--color-primary); */
     }
 
     .tooltip-container {
@@ -66,9 +66,7 @@
         z-index: 9;
         width: var(--size-medium);
         background: var(--color-primary);
-        color: var(--color-neutral-light);
-        /* box-shadow: var(--box-shadow); */
-        border-radius: var(--border-radius);
+        color: var(--color-neutral-10);
         padding: var(--padding);
         transform: scale(0);
         transform-origin: bottom left;
